@@ -7,4 +7,4 @@ Unit test cases
 All game logic
 Configure the swift lint using swiftlint.yml
 Code documentation
-Reusable card component
+Reusable card component.
